@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Naulleau-Vincent
-- 🌱 I’m currently learning PHP, JS, CSS, HTML.
-- 📘 I’m currently learning at Epitech for my first year.
-- 💼 I'm currently searching for an alternation for my second year.
-- 📫 You can reach me at email : v.naulleau.developpeurweb@gmail.com
+Chers visiteurs,
+
+Mon github est actuellement en cours d'approvisionnement. Il sera consultable à partir de Samedi 29/06/2024 
+
+Merci de votre compréhension.
+
+Cordialement
