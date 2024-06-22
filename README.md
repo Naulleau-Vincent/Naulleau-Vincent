@@ -4,4 +4,4 @@ Mon github est actuellement en cours d'approvisionnement. Il sera consultable à
 
 Merci de votre compréhension.
 
-Cordialement
+Cordialement.
