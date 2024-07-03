@@ -1,7 +1,7 @@
-Chers visiteurs,
+# Chers visiteurs,
 
-Mon github est actuellement en cours d'approvisionnement. Il sera consultable à partir de Samedi 29/06/2024 
+Mon github est actuellement en cours d'approvisionnement.
 
-Merci de votre compréhension.
+Merci de votre compréhension,
 
-Cordialement.
+Vincent Naulleau
